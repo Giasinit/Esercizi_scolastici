@@ -54,4 +54,29 @@ Ciao a tutti! Qui troverete una lista di tutti gli esercizi che ho fatto a scuol
 *   **VerificaPariConFunzione.c**: esercizio che verifica se un numero è pari tramite l'utilizzo di una funzione.
 *   **VerificaPrimoConFunzione.c**: esercizio che verifica se un numero è primo tramite l'utilizzo di una funzione.
 
+
+# Aggiornamento 20 Maggio 2023
+
+* **CalcoloMCDConFunzione.c**: esercizio sul calcolo del massimo comune divisore (MCD) utilizzando una funzione.
+
+* **MassimoDiPiuNumeriConFunzioni.c**: esercizio per trovare il valore massimo tra una serie di numeri utilizzando funzioni.
+
+* **SommaPositiviArrayRandomFunzioni.c**: esercizio per calcolare la somma dei numeri positivi presenti in un array di numeri generati casualmente, utilizzando funzioni.
+
+* **NumeroElementiPositiviArrayFunzioni.c**: esercizio per determinare il numero di elementi positivi presenti in un array utilizzando funzioni.
+
+* **RicercaElementoArrayFunzioni.c**: esercizio per cercare la presenza di un elemento all'interno di un array utilizzando funzioni.
+
+* **SommaArrayFunzioni.c**: esercizio per calcolare la somma degli elementi di un array utilizzando funzioni.
+
+* **InversioneArrayFunzione.c**: esercizio per invertire l'ordine degli elementi in un array utilizzando funzioni.
+
+* **Ricetta.html**: esempio di un file HTML che rappresenta una ricetta culinaria.
+
+* **OrarioLezioni.html**: esempio di un file HTML che rappresenta l'orario delle lezioni.
+
+* **Classe2IF.html**: esempio di un file HTML che descrive una classe di studenti di informatica.
+
+* **OrarioLezioni2.html**: esempio di un altro file HTML che rappresenta l'orario delle lezioni, forse in una struttura diversa rispetto a "OrarioLezioni.html".
+
 Spero che questo elenco vi sia utile! 😊
