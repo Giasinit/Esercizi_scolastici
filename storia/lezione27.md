@@ -8,12 +8,14 @@
    - **Impatto**: La diffusione delle tesi nel 1517 segnò l'inizio ufficiale della Riforma protestante, provocando un immediato conflitto con la gerarchia cattolica.
 
 - **Le principali critiche di Lutero**:
-   - **Le indulgenze**: Lutero non era d'accordo con l'idea che la gente potesse "comprare" il perdono dei peccati.
-   - **L'autorità della Chiesa**: Credeva che la Chiesa avesse troppo potere e che spesso lo usasse in modo errato.
-   - **La Bibbia e la fede**: Lutero sosteneva che la salvezza venisse dalla fede in Dio e non dalle opere o dai soldi. Credeva anche che tutti dovrebbero poter leggere la Bibbia, che a quel tempo era disponibile solo in latino.
-   - **Sola Scriptura (Solo la Scrittura)**: Lutero sosteneva che tutte le dottrine e pratiche cristiane dovrebbero basarsi esclusivamente sulla Bibbia.
-   - **Sola Fide (Solo la Fede)**: La salvezza è ottenuta solo attraverso la fede in Cristo, non per meriti o opere.
-   - **Sacerdozio Universale**: Ogni credente ha il diritto di interpretare la Bibbia e di comunicare direttamente con Dio.
+   - **Indulgenze**: Lutero criticava fortemente la pratica di vendere indulgenze, ossia la convinzione che i fedeli potessero acquistare il perdono dei peccati. Egli vedeva questa pratica come un modo improprio di guadagnare salvezza, contraddicendo l'insegnamento biblico che la salvezza non può essere comprata.
+   - **Autorità della Chiesa**: Lutero era critico nei confronti della grande autorità e del potere centralizzato della Chiesa cattolica, sostenendo che spesso veniva esercitato in maniera corrotta e non spirituale.
+   - **Accesso alla Bibbia e natura della fede**: Sosteneva che la salvezza derivasse esclusivamente dalla fede in Dio e non da opere o contributi finanziari. Promuoveva anche la necessità che la Bibbia fosse accessibile a tutti in lingua volgare, criticando la limitazione della sua lettura al solo latino.
+
+- **Le principali dottrine di Lutero**:
+   - **Sola Scriptura (Solo la Scrittura)**: Questa dottrina afferma che la Bibbia è l'unica fonte autorevole per la dottrina cristiana e che ogni insegnamento deve essere misurato e confermato attraverso di essa, escludendo altre fonti come le tradizioni ecclesiastiche non basate su testi biblici.
+   - **Sola Fide (Solo la Fede)**: Lutero insegnava che la salvezza si ottiene esclusivamente tramite la fede in Gesù Cristo, indipendentemente dalle opere compiute, sottolineando che nessun atto umano può contribuire alla propria redenzione.
+   - **Sacerdozio Universale**: Questa dottrina proclama che ogni cristiano ha il diritto e la capacità di leggere e interpretare la Bibbia personalmente, senza la mediazione necessaria di un clero istituzionalizzato. Questo enfatizza un rapporto diretto tra il credente e Dio, democratizzando l'accesso alla guida spirituale.
 
 3. **Le conseguenze della Riforma**:
    - **Diffusione del protestantesimo**: La Riforma ha portato alla creazione di nuove chiese cristiane che non seguivano l'autorità del Papa, come i luterani e i calvinisti.
